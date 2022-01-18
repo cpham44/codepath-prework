@@ -1,6 +1,6 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Graduity Calculator*
 
-**Name of your app** is a tip calculator application for iOS.
+**Graduity Calculator** is a tip calculator application for iOS.
 
 Submitted by: **Christine Pham**
 
